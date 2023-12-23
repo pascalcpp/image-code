@@ -11,7 +11,7 @@ conda activate ep1
 pip install -r requirements.txt  
 requirements.txt在上面下载  
 4.  
-cd .\图像代码_包含预处理后的实验数据集\UPCOL_all_false_128_128_128\UPCOL_TEst\UPCoL-main\codes  
+cd .\image_codeANDdata\UPCOL_all_false_128_128_128\UPCOL_TEst\UPCoL-main\codes  
 5.  
 sudo chmod 777  ./train.sh  
 6.  
