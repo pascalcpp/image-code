@@ -1,6 +1,7 @@
 # image-code
 图像分析论文作业代码  
-包含数据集的代码在此处下载https://github.com/pascalcpp/image-code/releases/download/v1.0/image_codeANDdata.zip  
+包含数据集的代码在此处下载
+https://github.com/pascalcpp/image-code/releases/download/v1.0/image_codeANDdata.zip  
 1.  
 conda create --name ep1 python=3.8  
 2.  
