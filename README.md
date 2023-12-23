@@ -1,5 +1,5 @@
 # image-code
-图像分析代码  
+图像分析论文作业代码  
 1.  
 conda create --name ep1 python=3.8  
 2.  
