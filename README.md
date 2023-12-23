@@ -6,6 +6,7 @@ conda create --name ep1 python=3.8
 conda activate ep1  
 3.  
 pip install -r requirements.txt  
+requirements.txt在上面下载  
 4.  
 cd .\图像代码_包含预处理后的实验数据集\UPCOL_all_false_128_128_128\UPCOL_TEst\UPCoL-main\codes  
 5.  
